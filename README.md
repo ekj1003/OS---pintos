@@ -1,4 +1,4 @@
-# OS---Pintos Project
+# OS-Pintos Project
 2023-2 Sogang University Operating System (CSE4070) Project
 
 PROJECT 1
